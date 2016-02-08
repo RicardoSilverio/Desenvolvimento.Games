@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HelloWorldScene.update(Double) -&gt; ():HelloWorldScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.paralaxNode?.convertToWorldSpace((self.paralaxNode?.position)!)">
+            </PersistentString>
+            <PersistentString
+               value = "planoFundo?.contentSize.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

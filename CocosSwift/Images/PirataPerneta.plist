@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>PirataPerneta1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{104, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{364, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{104, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{364, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 102}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{208, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>PirataPerneta9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {50, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 0}, {50, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>PirataPerneta.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
